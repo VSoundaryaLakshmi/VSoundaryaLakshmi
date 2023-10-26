@@ -9,9 +9,6 @@
 2. Internshala Deep Learning 
 3. Infosys Springboard Machine Learning With Applications to Object(ongoing)
 
-- My Projects: [https://tinyurl.com/SL-projects](https://tinyurl.com/SL-projects)
-
-
 
 - Reach me on: https://tinyurl.com/SL-linkedin
 
